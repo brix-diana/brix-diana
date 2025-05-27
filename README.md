@@ -1,10 +1,9 @@
 ## Hi, I'm Diana 👋
+A passionate developer excited to explore the world of game development and design.  
 
-A passionate developer excited to explore the world of game development and design.
-
-:star: Currently working on a personal portolio
+:star: Currently working on a personal portolio  
 ## :dizzy: Connect with me
-LinkedIn: [linkedin.com/in/diana-brix] (https://www.linkedin.com/in/diana-brix-9465a3265/)
+LinkedIn: [linkedin.com/in/diana-brix] (https://www.linkedin.com/in/diana-brix-9465a3265/)  
 Email: [brixdiana312@gmail.com] (brixdiana312@gmail.com)
 <!--
 **brix-diana/brix-diana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
