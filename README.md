@@ -2,7 +2,7 @@
 A passionate developer excited to explore the world of game development and design.  
 
 :maple_leaf: I'm currently working as a Web Development & Inventory Student Employee  
-:star: Currently working on: Software Design full-stack w/React, Node.js, MySQL; game dev. project w/Unity; data science with R & PyTorch  
+:star: Currently working on: Software Design full-stack w/React, Node.js, MySQL; game dev. project w/Unity & Blender; data science with R & PyTorch  
 🌸 Currently learning: web dev, game dev, full-stack, and more  
 ## :dizzy: Connect with me
 LinkedIn: [linkedin.com/in/diana-brix](https://www.linkedin.com/in/diana-brix-9465a3265/)  
