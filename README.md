@@ -6,7 +6,7 @@ A passionate developer excited to explore the world of game development and desi
 🌸 Currently learning: web dev, game dev, full-stack, and more  
 ## :dizzy: Connect with me
 LinkedIn: [linkedin.com/in/diana-brix](https://www.linkedin.com/in/diana-brix-9465a3265/)  
-Email: [brixdiana312@gmail.com](brixdiana312@gmail.com)
+Email: [dianabrix312@gmail.com](dianabrix@gmail.com)
 
 
 <!--
